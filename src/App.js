@@ -1,4 +1,3 @@
-import './App.css';
 import './Pages/TransactionPage'
 import TransactionPage from './Pages/TransactionPage';
 
